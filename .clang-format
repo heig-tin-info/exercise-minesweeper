@@ -1,0 +1,7 @@
+---
+BasedOnStyle: Google
+BreakBeforeBraces: Linux
+IndentWidth: '4'
+AccessModifierOffset: '-4'
+AllowShortLoopsOnASingleLine: 'false'
+...
